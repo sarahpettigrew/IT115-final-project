@@ -5,7 +5,6 @@ This assignment features the following files:
 - [branch1.html](https://github.com/sarahpettigrew/IT115-final-project/branch.html)
 - [local1.html](https://github.com/sarahpettigrew/IT115-final-project/local1.html)
 - [test.html](https://github.com/sarahpettigrew/IT115-final-project/test.html)
-- [new.html](https://github.com/sarahpettigrew/IT115-final-project/new.html)
 
 ## Stages of the project
 1. Create a repository
